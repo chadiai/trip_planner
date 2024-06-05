@@ -98,7 +98,3 @@ To run the project in your local environment, follow these steps:
 2. Run `npm install` or `yarn` in the project directory to install the required dependencies.
 3. Run `npm run start` or `yarn start` to get the project started.
 4. Open [http://localhost:8000](http://localhost:8000) (or the address shown in your console) in your web browser to view the app.
-
-## 🍿 Video
-
-https://github.com/JarneDirken/2024-Angular_Project/video/...
